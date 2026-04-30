@@ -1,9 +1,0 @@
-# PhoneClaw dependencies
-# Compatible with fastapi<0.100 and pydantic<2
-fastapi==0.99.1
-pydantic==1.10.21
-uvicorn==0.22.0
-python-telegram-bot==20.3
-python-dotenv==1.0.0
-requests==2.31.0
-supervisor==4.2.5
